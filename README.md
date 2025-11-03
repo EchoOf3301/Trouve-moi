@@ -1,19 +1,23 @@
-# 🔎 TinderCTF — Un petit jeu, pour deux ?
+# 🕵️‍♀️ Le Défi du Général
 
-Salut toi 😉  
-Si tu as cliqué ici, ça veut dire que la curiosité et le risque te plaisent autant que moi. J’aime les gens qui osent fouiller un peu plus loin.
+Certains cherchent des réponses. D’autres préfèrent les énigmes.  
+Si tu lis ces lignes, c’est que tu fais partie de la seconde catégorie.
 
-> But du jeu : suivre un petit fil rouge caché dans ce fichier pour découvrir la suite. Seuls les yeux attentifs (et un brin audacieux) trouveront le prochain pas.
+> But du jeu : trouver ce que tout le monde regarde sans vraiment le voir.  
+> La vérité est ici, mais elle ne se livre qu’à ceux qui savent où chercher.
 
-## Règles du flirt
-- C’est ludique et consentant — on joue proprement.
-- Pas d’attaque, pas d’extraction de données privées.
-- Si tu trouves la suite, sois fiere et dis-le : j’aime les gens qui partagent leurs victoires 😉
+## Règles
+- Rien de malicieux, rien d’interdit : juste un jeu de curiosité.
+- Les plus observateurs sauront voir ce que les autres ignorent.
+- Et si tu trouves… la suite t’attend, discrète mais bien réelle.
 
-## Indice subtil
-Regarde ce fichier d’un peu plus près — il t’en dira plus si tu sais l’écouter.  
-Les curieux sauront comment l’ouvrir autrement...
+## Légende du Général
+Le vieux Maximus disait :  
+> "Les indices les plus précieux se cachent dans les marges du monde visible."
 
-Si tu veux continuer, montre-moi que tu sais suivre les signes. ✨
+Un conseil : ouvre l’œil — et le bon fichier.
 
-<!-- hidden_url: https://github.com/TON_UTILISATEUR/TON_REPO -->
+Bonne chasse, stratège. ⚔️
+
+<!-- hidden_url: https://www.dropbox.com/scl/fo/w9sepx95fxjynvgvfhf5e/AF-6sArFgRPGam-atNzdNwI?rlkey=fesgshel83h46eb8u0hqhsy6q&st=x62lpjw6&dl=0 -->
+
