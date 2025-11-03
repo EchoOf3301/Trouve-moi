@@ -8,7 +8,7 @@ Si tu as cliqué ici, ça veut dire que la curiosité et le risque te plaisent a
 ## Règles du flirt
 - C’est ludique et consentant — on joue proprement.
 - Pas d’attaque, pas d’extraction de données privées.
-- Si tu trouves la suite, sois fier·e et dis-le : j’aime les gens qui partagent leurs victoires 😉
+- Si tu trouves la suite, sois fiere et dis-le : j’aime les gens qui partagent leurs victoires 😉
 
 ## Indice subtil
 Regarde ce fichier d’un peu plus près — il t’en dira plus si tu sais l’écouter.  
